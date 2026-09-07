@@ -1,0 +1,67 @@
+# --- OTA / OS updates ---
+snu.lge.com
+su.lge.com
+su-ssl.lge.com
+nsu.lge.com
+snu-dev.lge.com
+su-dev.lge.com
+
+# --- SDX telemetry: nextlgsdp.com family ---
+nextlgsdp.com
+ibs.nextlgsdp.com
+ibsstat.nextlgsdp.com
+rdx2.nextlgsdp.com
+
+# --- SDX telemetry: lgtvcommon.com family ---
+lgtvcommon.com
+netflixvoice.lgtvcommon.com
+nudge.lgtvcommon.com
+homeprv.lgtvcommon.com
+wiseconfig.lgtvcommon.com
+pnv.lgtvcommon.com
+recommend.lgtvcommon.com
+cdpsvc.lgtvcommon.com
+cpauth.lgtvcommon.com
+cdpbeacon.lgtvcommon.com
+rdl.lgtvcommon.com
+wiseresource.lgtvcommon.com
+qcardservice.lgtvcommon.com
+qt2-kic.lab.lgtvcommon.com
+
+# --- SDX telemetry: other ---
+lggalleryplus.com
+tv.wiselg.com
+
+# --- Ads ---
+lgsmartad.com
+info.lgsmartad.com
+
+# --- ThinQ / IoT ---
+lgtviot.com
+api.lgtviot.com
+commonpush.lgtviot.com
+sports.lgtviot.com
+ocp.lgtviot.com
+push.lgtviot.com
+buddy.lgtviot.com
+lgthinq.com
+common.lgthinq.com
+connect-client.lgthinq.com
+
+# --- LLM / AI platform ---
+ngfts.lge.com
+qt2-ngfts.lge.com
+kic-ngfts.lge.com
+kic-qt2-ngfts.lge.com
+
+# --- Crash / analytics upload ---
+# (rdx2.nextlgsdp.com + rdl.lgtvcommon.com already listed above)
+
+# --- Voice NLP backend (optional — breaks voice search, see HOWTO caveats) ---
+lgsmartweb.com
+lgvoice.com
+
+# --- Content Store tradeoff (optional — breaks Content Store, see HOWTO) ---
+# lgtvsdp.com
+# lgappstv.com
+# lgshopsvc.lgappstv.com
